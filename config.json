@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersarse",
+        "uuid": 9106612,
+        "checksum": "gwa0m"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
